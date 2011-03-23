@@ -1,0 +1,1 @@
+Access files on server machine (i.e., machine upone which the gem is running), as opposed to access to files on the client machine (i.e., machine upon which the gci client (gemtools for example) is running).
