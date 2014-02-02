@@ -6,10 +6,9 @@
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [
-		"futureValue",
-		"exception",
-		"lock"
+		"string",
+		"object"
 	],
-	"name" : "WAMockGemStoneBackgroundTask",
+	"name" : "ObjectLogEntry",
 	"type" : "normal"
 }
