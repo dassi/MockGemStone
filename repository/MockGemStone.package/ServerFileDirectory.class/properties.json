@@ -1,11 +1,14 @@
 {
-	"commentStamp" : "DaleHenrichs 8/20/2010 13:25",
-	"super" : "FileDirectory",
+	"commentStamp" : "",
+	"super" : "Object",
 	"category" : "MockGemStone",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
-	"instvars" : [ ],
+	"instvars" : [
+		"directoryPath",
+		"fileName"
+	],
 	"name" : "ServerFileDirectory",
 	"type" : "normal"
 }

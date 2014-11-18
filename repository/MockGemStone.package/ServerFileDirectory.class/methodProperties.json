@@ -1,4 +1,11 @@
 {
-	"instance" : { },
-	"class" : { }
+	"instance" : {
+		"directoryPath" : "PaulDeBruicker 11/17/2014 22:08",
+		"readOnlyFileNamed:" : "PaulDeBruicker 11/17/2014 22:13",
+		"directoryPath:" : "PaulDeBruicker 11/17/2014 22:08",
+		"deleteFileNamed:ifAbsent:" : "PaulDeBruicker 11/17/2014 22:15"
+	},
+	"class" : {
+		"on:" : "PaulDeBruicker 11/17/2014 22:07"
+	}
 }
