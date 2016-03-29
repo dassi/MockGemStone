@@ -1,7 +1,5 @@
 {
-	"instance" : {
-		"asPosixSeconds" : "KenTreis 7/9/2010 16:03"
-	},
+	"instance" : { },
 	"class" : {
 		"posixSeconds:offset:" : "KenTreis 7/9/2010 16:00"
 	}
