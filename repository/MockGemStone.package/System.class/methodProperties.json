@@ -21,6 +21,7 @@
 		"addToCommitOrAbortReleaseLocksSet:" : "kdt 2/6/2008 10:57",
 		"abortTransaction" : "MarianoMartinezPeck 4/22/2016 11:31",
 		"beginTransaction" : "PaulDeBruicker 3/28/2016 11:39",
+		"lockOwners:" : "PaulDeBruicker 5/5/2016 23:50",
 		"persistentCounterAt:put:" : "dkh 9/3/2009 08:49",
 		"removeLockAll:" : "PaulDeBruicker 9/1/2015 16:16",
 		"startUp:" : "kdt 9/14/2009 09:57",
