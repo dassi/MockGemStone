@@ -1,3 +1,3 @@
 accessing
-readOnlyFileNamed:aFileName
-	self directoryPath, aFileName asFileReference readStream
+readOnlyFileNamed: aFileName
+	^ (self directoryPath , aFileName) asFileReference readStream

@@ -1,9 +1,11 @@
 {
 	"instance" : {
+		"asciiReadOnlyFileNamed:" : "PaulDeBruicker 12/8/2015 12:08",
+		"deleteFileNamed:ifAbsent:" : "PaulDeBruicker 12/7/2015 21:22",
 		"directoryPath" : "PaulDeBruicker 11/17/2014 22:08",
-		"readOnlyFileNamed:" : "PaulDeBruicker 11/17/2014 22:13",
-		"directoryPath:" : "PaulDeBruicker 11/17/2014 22:08",
-		"deleteFileNamed:ifAbsent:" : "PaulDeBruicker 11/17/2014 22:15"
+		"fileExists:" : "PaulDeBruicker 12/7/2015 21:22",
+		"readOnlyFileNamed:" : "PaulDeBruicker 12/8/2015 11:59",
+		"directoryPath:" : "PaulDeBruicker 11/17/2014 22:08"
 	},
 	"class" : {
 		"on:" : "PaulDeBruicker 11/17/2014 22:07"
