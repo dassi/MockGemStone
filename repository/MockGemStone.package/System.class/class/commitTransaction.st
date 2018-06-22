@@ -1,3 +1,3 @@
 Transactions
 commitTransaction
-	
+	inTransaction :=false

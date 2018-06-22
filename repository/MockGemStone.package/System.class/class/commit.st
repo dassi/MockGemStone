@@ -1,3 +1,3 @@
 Transactions
 commit
-	
+	self commitTransaction 

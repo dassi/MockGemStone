@@ -2,17 +2,10 @@
 	"commentStamp" : "",
 	"super" : "Object",
 	"category" : "MockGemStone",
-	"classinstvars" : [
-		"locks",
-		"stats",
-		"mutex",
-		"persistentCounter",
-		"path",
-		"inTransaction"
-	],
+	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [ ],
-	"name" : "System",
+	"name" : "GsSecureSocket",
 	"type" : "normal"
 }
