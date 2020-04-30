@@ -1,3 +1,4 @@
 Transactions
 commitTransaction
-	inTransaction :=false
+	inTransaction :=false.
+	^true
