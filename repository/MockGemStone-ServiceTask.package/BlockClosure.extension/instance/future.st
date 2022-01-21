@@ -1,3 +1,3 @@
-*mockgemstone-servicetask
+*MockGemStone-ServiceTask
 future
 	^ WAMockGemStoneBackgroundTask value: self
