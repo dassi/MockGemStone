@@ -5,9 +5,7 @@
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
-	"instvars" : [
-		"collection"
-	],
-	"name" : "RcQueue",
+	"instvars" : [ ],
+	"name" : "PassiveObject",
 	"type" : "normal"
 }

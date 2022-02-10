@@ -7,8 +7,7 @@
 		"stats",
 		"mutex",
 		"persistentCounter",
-		"path",
-		"inTransaction"
+		"path"
 	],
 	"pools" : [ ],
 	"classvars" : [ ],
