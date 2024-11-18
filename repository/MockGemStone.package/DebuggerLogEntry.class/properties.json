@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "ObjectLogEntry",
+	"category" : "MockGemStone",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "DebuggerLogEntry",
+	"type" : "normal"
+}
