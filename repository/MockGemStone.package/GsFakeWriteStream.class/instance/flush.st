@@ -1,0 +1,3 @@
+flushing
+flush
+	realStream flush
