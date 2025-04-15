@@ -1,3 +1,0 @@
-accessing
-hasValue
-    ^ lock isSignaled
