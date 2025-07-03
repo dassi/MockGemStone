@@ -1,3 +1,3 @@
 adding
 remove
-	^self isEmpty ifTrue: [nil] ifFalse: [self removeFirst]
+	^ self isEmpty ifTrue: [ nil ] ifFalse: [ collection removeFirst ]

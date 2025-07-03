@@ -1,3 +1,5 @@
 accessing
 assureExistence
-	^ self directoryPath asFileReference ensureCreateDirectory
+	self directoryPath asFileReference ensureCreateDirectory.
+	
+	^ self

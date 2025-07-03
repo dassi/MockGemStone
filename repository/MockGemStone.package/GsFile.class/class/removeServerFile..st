@@ -1,3 +1,3 @@
 as yet unclassified
 removeServerFile: aFilePath
-	^aFilePath asFileReference delete.	
+	aFilePath asFileReference delete.	

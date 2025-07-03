@@ -1,3 +1,3 @@
 as yet unclassified
 openWrite: aFilePath
-	^aFilePath asFileReference writeStream.	
+	^ self open: aFilePath mode: 'w' onClient: true

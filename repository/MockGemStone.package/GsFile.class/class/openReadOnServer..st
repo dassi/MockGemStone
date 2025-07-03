@@ -1,3 +1,3 @@
 as yet unclassified
 openReadOnServer: aFilePath
-	^aFilePath asFileReference readStream.	
+	^ self open: aFilePath mode: 'r' onClient: false
